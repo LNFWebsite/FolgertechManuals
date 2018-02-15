@@ -329,7 +329,7 @@ Hardware Needed:
 
 ![Motor mounts installed](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-012-050.png)
 
-2\. Mount the (1) 4.8kg/cm Bed Motor to the Metal Motor Mount that we attached to the Bottom Frame Assembly earlier in the build guide using (4) M3x8mm Bolts & (4) M3 Lock Washers.
+2\. Mount the (1) 4.8kg/cm Bed Motor to the Metal Motor Mount that we attached to the Bottom Frame Assembly earlier in the build guide using (4) M3x8mm Bolts & (4) M3 Lock Washers. Note: The motor's orientation as pictured places its wires directly in the path of the bed's movement when printing. It is a good idea to mount the motor at a 90 degree angle so that the wires face outward instead of upward.
 
 ![Motor mounted](https://raw.githubusercontent.com/cyberkni/FolgertechManuals/master/2020i3/images/-012-052.png)
 
